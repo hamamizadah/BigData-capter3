@@ -16,3 +16,9 @@ UnderstandingRDD.py
 
 WordCount.py
 ![Screenshot ](image/5.png)
+
+SystemCommandsOutput.scala
+![Screenshot ](image/6.png)
+
+SystemCommandsReturnCode.scale
+![Screenshot ](image/7.png)
